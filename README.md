@@ -7,7 +7,7 @@
     </a>
 </div>
 
-Contatos
+<!-- Contatos -->
 
 <div>
     <a href="https://instagram.com/brubs_trevisan" target="_blank"><img
